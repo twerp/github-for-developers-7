@@ -2,3 +2,4 @@
 - I'm from **Finland**.
 - My favorite food is 🍎π.
 - My favorite hobby is reading.
+- My favorite color is blue.

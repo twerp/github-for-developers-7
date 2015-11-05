@@ -1,0 +1,4 @@
+- My name is **Juha**.
+- I'm from **Finland**.
+- My favorite food is 🍎π.
+- My favorite hobby is reading.
